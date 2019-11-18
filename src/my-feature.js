@@ -1,1 +1,1 @@
-const myFeature = (firstArg, ...args) => args
+const myFeature = (firstArg, ...args) => [firstArg, ...args]
