@@ -1,0 +1,1 @@
+const myFeature = (firstArg, ...args) => [firstArg, ...args]
