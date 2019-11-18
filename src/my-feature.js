@@ -1,1 +1,1 @@
-const myFeature = (firstArg, ...args) => [firstArg, ...args]
+const myFeature = (firstArg, ...args) => console.log('🍓')
